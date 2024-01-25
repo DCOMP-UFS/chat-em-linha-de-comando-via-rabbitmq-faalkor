@@ -68,7 +68,6 @@ public class Chat {
         messege = "(" + date_format.format(now) + ") " + user + " diz: " + messege;
         channel.basicPublish("", dest, null,  messege.getBytes("UTF-8"));
       }
-      System.out.print("@" + dest + ">> ");
     }
     
       sc.close();
