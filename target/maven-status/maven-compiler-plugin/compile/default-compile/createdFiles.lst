@@ -1,2 +1,11 @@
 br/ufs/dcomp/ChatRabbitMQ/Chat.class
+br/ufs/dcomp/ChatRabbitMQ/ChatProto$Messege.class
+br/ufs/dcomp/ChatRabbitMQ/ChatProto$MessegeOrBuilder.class
+br/ufs/dcomp/ChatRabbitMQ/ChatProto$ContentOrBuilder.class
+br/ufs/dcomp/ChatRabbitMQ/ChatProto$Content$Builder.class
 br/ufs/dcomp/ChatRabbitMQ/Chat$1.class
+br/ufs/dcomp/ChatRabbitMQ/ChatProto$Content$1.class
+br/ufs/dcomp/ChatRabbitMQ/ChatProto$Messege$1.class
+br/ufs/dcomp/ChatRabbitMQ/ChatProto$Content.class
+br/ufs/dcomp/ChatRabbitMQ/ChatProto.class
+br/ufs/dcomp/ChatRabbitMQ/ChatProto$Messege$Builder.class
