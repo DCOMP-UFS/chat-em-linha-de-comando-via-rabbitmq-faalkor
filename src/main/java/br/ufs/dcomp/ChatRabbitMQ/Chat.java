@@ -49,7 +49,7 @@ public class Chat {
         String name = content.getName();
         
         // Extraindo conteudo
-        //String message = new String(body, "UTF-8");
+        //String message = new String(body, "UTF-8") ;
         System.out.print("\n(" + date + ") " + sender + " diz: " + corp);
 
         System.out.print("@" + dest + ">> ");
